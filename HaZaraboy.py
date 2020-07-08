@@ -56,19 +56,61 @@ logo = """  👉Assalamu Alaikum👈
         ♠👉Unlimited Cloning Github👈♠
   
 
-_    _ _
-   / \  | (_)
-  / _ \ | | |
- / ___ \| | |
-/_/   \_\_|_|
-                                                 
+   
+                                                            
+                                                            
+HHHHHHHHH     HHHHHHHHH                   jjjj   iiii       
+H:::::::H     H:::::::H                  j::::j i::::i      
+H:::::::H     H:::::::H                   jjjj   iiii       
+HH::::::H     H::::::HH                                     
+  H:::::H     H:::::H    aaaaaaaaaaaaa  jjjjjjjiiiiiii      
+  H:::::H     H:::::H    a::::::::::::a j:::::ji:::::i      
+  H::::::HHHHH::::::H    aaaaaaaaa:::::a j::::j i::::i      
+  H:::::::::::::::::H             a::::a j::::j i::::i      
+  H:::::::::::::::::H      aaaaaaa:::::a j::::j i::::i      
+  H::::::HHHHH::::::H    aa::::::::::::a j::::j i::::i      
+  H:::::H     H:::::H   a::::aaaa::::::a j::::j i::::i      
+  H:::::H     H:::::H  a::::a    a:::::a j::::j i::::i      
+HH::::::H     H::::::HHa::::a    a:::::a j::::ji::::::i     
+H:::::::H     H:::::::Ha:::::aaaa::::::a j::::ji::::::i     
+H:::::::H     H:::::::H a::::::::::aa:::aj::::ji::::::i     
+HHHHHHHHH     HHHHHHHHH  aaaaaaaaaa  aaaaj::::jiiiiiiii     
+                                         j::::j             
+                               jjjj      j::::j             
+                              j::::jj   j:::::j             
+                              j::::::jjj::::::j             
+                               jj::::::::::::j              
+                                 jjj::::::jjj               
+                                    jjjjjj                  
+                                
               
                  Haji Ali_Tricker
-           _   _       _____     ____
-| | | | __ _|__  /__ _|  _ \ __ _
-| |_| |/ _` | / // _` | |_) / _` |
-|  _  | (_| |/ /| (_| |  _ < (_| |
-|_| |_|\__,_/____\__,_|_| \_\__,_|
+          
+                                                 
+                                                 
+               AAA               lllllll   iiii  
+              A:::A              l:::::l  i::::i 
+             A:::::A             l:::::l   iiii  
+            A:::::::A            l:::::l         
+           A:::::::::A            l::::l iiiiiii 
+          A:::::A:::::A           l::::l i:::::i 
+         A:::::A A:::::A          l::::l  i::::i 
+        A:::::A   A:::::A         l::::l  i::::i 
+       A:::::A     A:::::A        l::::l  i::::i 
+      A:::::AAAAAAAAA:::::A       l::::l  i::::i 
+     A:::::::::::::::::::::A      l::::l  i::::i 
+    A:::::AAAAAAAAAAAAA:::::A     l::::l  i::::i 
+   A:::::A             A:::::A   l::::::li::::::i
+  A:::::A               A:::::A  l::::::li::::::i
+ A:::::A                 A:::::A l::::::li::::::i
+AAAAAAA                   AAAAAAAlllllllliiiiiiii
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                 
+                                                
                    
         ♠👉Let's Hope You Get More👈♠
       ♠👉Than Clon Accounts You Think👈♠
@@ -102,17 +144,46 @@ os.system("clear")
 print "\033[1;96m ------------_--------------"
 print  """\033[1;91m
 
-_  ___        ____
-| |/ (_)_ __  / ___|
-| ' /| | '_ \| |  _
-| . \| | | | | |_| |
-|_|\_\_|_| |_|\____|
+                                                                 
+                                                                 
+KKKKKKKKK    KKKKKKK  iiii                                       
+K:::::::K    K:::::K i::::i                                      
+K:::::::K    K:::::K  iiii                                       
+K:::::::K   K::::::K                                             
+KK::::::K  K:::::KKKiiiiiiinnnn  nnnnnnnn       ggggggggg   ggggg
+  K:::::K K:::::K   i:::::in:::nn::::::::nn    g:::::::::ggg::::g
+  K::::::K:::::K     i::::in::::::::::::::nn  g:::::::::::::::::g
+  K:::::::::::K      i::::inn:::::::::::::::ng::::::ggggg::::::gg
+  K:::::::::::K      i::::i  n:::::nnnn:::::ng:::::g     g:::::g 
+  K::::::K:::::K     i::::i  n::::n    n::::ng:::::g     g:::::g 
+  K:::::K K:::::K    i::::i  n::::n    n::::ng:::::g     g:::::g 
+KK::::::K  K:::::KKK i::::i  n::::n    n::::ng::::::g    g:::::g 
+K:::::::K   K::::::Ki::::::i n::::n    n::::ng:::::::ggggg:::::g 
+K:::::::K    K:::::Ki::::::i n::::n    n::::n g::::::::::::::::g 
+K:::::::K    K:::::Ki::::::i n::::n    n::::n  gg::::::::::::::g 
+KKKKKKKKK    KKKKKKKiiiiiiii nnnnnn    nnnnnn    gggggggg::::::g 
+                                                         g:::::g 
+                                             gggggg      g:::::g 
+                                             g:::::gg   gg:::::g 
+                                              g::::::ggg:::::::g 
+                                               gg:::::::::::::g  
+                                                 ggg::::::ggg    
+                                                    gggggg       
+
                       Haji_Ali
-                      _    _ _
-   / \  | (_)
-  / _ \ | | |
- / ___ \| | |
-/_/   \_\_|_|
+                      
+$$\   $$\           $$$$$$$$\          $$$$$$$\            
+$$ |  $$ |          \____$$  |         $$  __$$\           
+$$ |  $$ | $$$$$$\      $$  / $$$$$$\  $$ |  $$ | $$$$$$\  
+$$$$$$$$ | \____$$\    $$  /  \____$$\ $$$$$$$  | \____$$\ 
+$$  __$$ | $$$$$$$ |  $$  /   $$$$$$$ |$$  __$$<  $$$$$$$ |
+$$ |  $$ |$$  __$$ | $$  /   $$  __$$ |$$ |  $$ |$$  __$$ |
+$$ |  $$ |\$$$$$$$ |$$$$$$$$\\$$$$$$$ |$$ |  $$ |\$$$$$$$ |
+\__|  \__| \_______|\________|\_______|\__|  \__| \_______|
+                                                           
+                                                           
+                                                           
+
                    
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Fasi_Tricker
 \033[1;96mInstagram \033[1;93m: \033[1;92m Haji Ali
