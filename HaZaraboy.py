@@ -47,82 +47,42 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """  👉Assalamu Alaikum👈
-              🔥Haji_Tricker🔥  
-            🔥I Am From Afghanistan🔥
-          🔥 Stay_Home - Stay_Safe 🔥
-           
-        ♠👉 Welcome To Haji Tricker👈♠
-        ♠👉Unlimited Cloning Github👈♠
+logo = """  ---------------------------------------------------------------------
+---------------------------------------------------------------------
+《ELYAS》<====A====F====G====>《HACK》
+
+🛡TELEGRAM🛡====> @afghacker2020🇦🇫🛡
+
+🛡FACEBOOK🛡==>SERHFARSISHAHELYAS🛡
+
+《ELYAS》<====A====F====G====>《HACK》
+
+🤚COPY NAKO BABEM ZAHMAT BEKASH🤚 
+----------------------------------------------------------------------- -----------------------------------------------------------------------
   
 
    
                                                             
                                                             
-HHHHHHHHH     HHHHHHHHH                   jjjj   iiii       
-H:::::::H     H:::::::H                  j::::j i::::i      
-H:::::::H     H:::::::H                   jjjj   iiii       
-HH::::::H     H::::::HH                                     
-  H:::::H     H:::::H    aaaaaaaaaaaaa  jjjjjjjiiiiiii      
-  H:::::H     H:::::H    a::::::::::::a j:::::ji:::::i      
-  H::::::HHHHH::::::H    aaaaaaaaa:::::a j::::j i::::i      
-  H:::::::::::::::::H             a::::a j::::j i::::i      
-  H:::::::::::::::::H      aaaaaaa:::::a j::::j i::::i      
-  H::::::HHHHH::::::H    aa::::::::::::a j::::j i::::i      
-  H:::::H     H:::::H   a::::aaaa::::::a j::::j i::::i      
-  H:::::H     H:::::H  a::::a    a:::::a j::::j i::::i      
-HH::::::H     H::::::HHa::::a    a:::::a j::::ji::::::i     
-H:::::::H     H:::::::Ha:::::aaaa::::::a j::::ji::::::i     
-H:::::::H     H:::::::H a::::::::::aa:::aj::::ji::::::i     
-HHHHHHHHH     HHHHHHHHH  aaaaaaaaaa  aaaaj::::jiiiiiiii     
-                                         j::::j             
-                               jjjj      j::::j             
-                              j::::jj   j:::::j             
-                              j::::::jjj::::::j             
-                               jj::::::::::::j              
-                                 jjj::::::jjj               
-                                    jjjjjj                  
-                                
-              
-                 Haji Ali_Tricker
-          
-                                                 
-                                                 
-               AAA               lllllll   iiii  
-              A:::A              l:::::l  i::::i 
-             A:::::A             l:::::l   iiii  
-            A:::::::A            l:::::l         
-           A:::::::::A            l::::l iiiiiii 
-          A:::::A:::::A           l::::l i:::::i 
-         A:::::A A:::::A          l::::l  i::::i 
-        A:::::A   A:::::A         l::::l  i::::i 
-       A:::::A     A:::::A        l::::l  i::::i 
-      A:::::AAAAAAAAA:::::A       l::::l  i::::i 
-     A:::::::::::::::::::::A      l::::l  i::::i 
-    A:::::AAAAAAAAAAAAA:::::A     l::::l  i::::i 
-   A:::::A             A:::::A   l::::::li::::::i
-  A:::::A               A:::::A  l::::::li::::::i
- A:::::A                 A:::::A l::::::li::::::i
-AAAAAAA                   AAAAAAAlllllllliiiiiiii
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                 
-                                                
-                   
-        ♠👉Let's Hope You Get More👈♠
-      ♠👉Than Clon Accounts You Think👈♠
-    ♠👉Do Not Use Your Personal Account👈♠
-       🤘👉This Github Was Full Secure👈🤘
-            🔥 BesT Of Luck  🔥
-         ♥️🔥 YouR HelP Our Happiness 🔥♥️
+█▒▒▒▒▒▒▒▒▒ ====>🇦🇫SHAH ELYAS📲
+10% 
+███▒▒▒▒▒▒▒ ====>🇦🇫SHAH ELYAS📲
+30% 
+█████▒▒▒▒▒ ====>🇦🇫SHAH ELYAS📲
+50% 
+███████▒▒▒ ====>🇦🇫SHAH ELYAS📲
+100% 
+██████████ ====>🇦🇫SHAH ELYAS📲
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Haji Ali_Tricker
-\033[1;96mInstagram \033[1;93m: \033[1: Haji Ali.53
-\033[1;96mFacebook  \033[1;93m: \033[1: Haji Ali.0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/hajiali_bot/king
+\《ELYAS》<====A====F====G====>《HACK》
+
+🛡TELEGRAM🛡====> @afghacker2020🇦🇫🛡
+
+🛡FACEBOOK🛡==>SERHFARSISHAHELYAS🛡
+
+《ELYAS》<====A====F====G====>《HACK》
+
+🤚COPY NAKO BABEM ZAHMAT BEKASH🤚
 \033[1;91m___________________________"""
 
 def tik():
